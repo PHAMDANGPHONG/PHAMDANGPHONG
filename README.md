@@ -1,9 +1,17 @@
-### ABOUT ME:
-My name is Pham Dang Phong. I am a Dev in Computer Science, specializing in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision.<br>
+👋 Hi, I'm Pham Dang Phong!
+💻 Developer | AI & Robotics Enthusiast
 
-🌱 I am constantly learning and exploring new technologies to improve my skills and knowledge.
+🔍 Specializing in:
 
-📖 Currently, I am a 3rd year student at the University of Engineering and Technology - Vietnam National University, Ha Noi.
+Deep Learning for Natural Language Processing (NLP) and Computer Vision (CV)
+
+Artificial Intelligence & Robotics
+
+🌱 Always Learning:
+I’m constantly exploring new technologies and tools to enhance my knowledge and sharpen my skills.
+
+🚀 Passionate About:
+Building intelligent systems that can perceive, understand, and interact with the world.
 
 💼 My skills include:
 - **Programming Languages**: Python, C++
