@@ -1,16 +1,16 @@
-## Hi there 👋
+### ABOUT ME:
+My name is Pham Dang Phong. I am a Dev in Computer Science, specializing in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision.<br>
 
-<!--
-**PHAMDANGPHONG/PHAMDANGPHONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I am constantly learning and exploring new technologies to improve my skills and knowledge.
 
-Here are some ideas to get you started:
+📖 Currently, I am a 3rd year student at the University of Engineering and Technology - Vietnam National University, Ha Noi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 My skills include:
+- **Programming Languages**: Python, C++
+- **Tools & Technologies**: Git, Kaggle, Colab
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Database Management**: SQL, SQLite
+- **Other Skills**: Microsoft Word, Excel, PowerPoint, LaTeX
+
+📫 You can contact me via:
+- Email: pham22022614@gmail.com
